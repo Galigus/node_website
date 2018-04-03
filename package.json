@@ -1,0 +1,16 @@
+{
+  "name": "@Galigus/node_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Galigus",
+  "license": "ISC"
+}
